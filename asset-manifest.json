@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Aronyu127/robofriends.git/static/css/main.2c741d74.chunk.css",
+    "main.js": "/Aronyu127/robofriends.git/static/js/main.8f7dc80a.chunk.js",
+    "main.js.map": "/Aronyu127/robofriends.git/static/js/main.8f7dc80a.chunk.js.map",
+    "runtime-main.js": "/Aronyu127/robofriends.git/static/js/runtime-main.47ad32ed.js",
+    "runtime-main.js.map": "/Aronyu127/robofriends.git/static/js/runtime-main.47ad32ed.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Aronyu127/robofriends.git/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d82cd422.chunk.js": "/Aronyu127/robofriends.git/static/js/2.d82cd422.chunk.js",
+    "static/js/2.d82cd422.chunk.js.map": "/Aronyu127/robofriends.git/static/js/2.d82cd422.chunk.js.map",
+    "index.html": "/Aronyu127/robofriends.git/index.html",
+    "precache-manifest.7678c116be0a0e649f4e7bde60550ff9.js": "/Aronyu127/robofriends.git/precache-manifest.7678c116be0a0e649f4e7bde60550ff9.js",
+    "service-worker.js": "/Aronyu127/robofriends.git/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Aronyu127/robofriends.git/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.2c741d74.chunk.css.map": "/Aronyu127/robofriends.git/static/css/main.2c741d74.chunk.css.map",
+    "static/js/2.d82cd422.chunk.js.LICENSE.txt": "/Aronyu127/robofriends.git/static/js/2.d82cd422.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Aronyu127/robofriends.git/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47ad32ed.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d82cd422.chunk.js",
+    "static/css/main.2c741d74.chunk.css",
+    "static/js/main.8f7dc80a.chunk.js"
+  ]
+}
